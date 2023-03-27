@@ -35,6 +35,7 @@ const data = [
     },
     {
         title: 'MacBook Pro 13”',
+        img: 'macbook13.png',
         price: 1299,
         url: 'https://www.apple.com/shop/buy-mac/macbook-pro/13-inch',
         colors: ['#C7C8CA', '#B1B2B7'],
@@ -69,8 +70,9 @@ const data = [
         }
     },
     {
-        title: 'MacBook Air',
-        price: 999,
+        title: 'MacBook Pro 16”',
+        img: 'macbookpro.png',
+        price: 2399,
         url: 'https://www.apple.com/shop/buy-mac/macbook-pro/16-inch',
         colors: ['#C7C8CA', '#B1B2B7', '#E3CCB4'],
         specs: {

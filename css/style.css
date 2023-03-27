@@ -121,8 +121,6 @@
     display: flex;
     flex-direction: column;
     gap: 15px;
-    align-items: center;
-    justify-content: center;
 }
 
 .flex .box.last .images{
@@ -137,7 +135,7 @@
     width: 100%;
     color: #0072F6;
     font-weight: 500;
-    border-top: 2px solid gray;
+    border-top: 2px solid #c4c4c4;
     text-align: center;
     text-decoration: none;
     padding-top: 30px;
